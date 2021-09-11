@@ -1,5 +1,9 @@
 
-### Hi there 👋
+### Olá, me chamo Guilherme e estou mudando de carreira.
+Aqui você encontra os meus estudos, e exercicios de cursos e imerssões que fiz.
+
+### Atualmente focado em REACT e REACT-NATIVE
+
 <div>
   <a href="https://github.com/guilherme-luccas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-luccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
