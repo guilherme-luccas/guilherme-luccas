@@ -1,5 +1,5 @@
 
-### Olá, me chamo Guilherme e estou mudando de carreira.
+### Olá, me chamo Guilherme Costa.
 Aqui você encontra os meus estudos, e exercicios de cursos e imerssões que fiz.
 
 ### Atualmente focado em REACT e REACT-NATIVE
