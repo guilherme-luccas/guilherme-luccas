@@ -1,6 +1,6 @@
 
 ### Olá, me chamo Guilherme Costa.
-Aqui você encontra os meus estudos, exercicios de cursos e imerssões que fiz.
+Aqui você encontra os meus projetos pessoais, exercicios de cursos e imerssões que fiz.
 
 ### Atualmente focado em REACT e REACT-NATIVE
 
