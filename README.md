@@ -1,18 +1,15 @@
-
 ### Olá, me chamo Guilherme Costa.
-Aqui você encontra os meus projetos pessoais, exercicios de cursos e imerssões que fiz.
 
-###REACT e REACT-NATIVE
+Front-end mobile. React Native e TypeScript: a tela só fica de pé quando cada peça encaixa.
 
-<div>
-  <a href="https://github.com/guilherme-luccas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilherme-luccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-luccas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<img src="https://raw.githubusercontent.com/guilherme-luccas/guilherme-luccas/main/assets/hero-mobile.jpg" alt="Peças de encaixe se juntando num celular com uma interface mobile abstrata" width="100%">
+
+### Como eu monto
+
+<img src="https://raw.githubusercontent.com/guilherme-luccas/guilherme-luccas/main/assets/craft-phones.jpg" alt="Três celulares: tela em peças, dados indo para sync e uma folha subindo de baixo" width="100%">
+
+| Tela | Estado e dados | Nativo |
+| --- | --- | --- |
+| UI, hook e estilo separados. A tela não carrega regra. | Zustand no que a UI compartilha, React Query no que vem de fora, formulário com Zod. | Gesto, persistência e sync. O app continua útil sem rede. |
+
+TypeScript · React Native · Reanimated · Zustand · TanStack Query · React Hook Form · Zod · Firebase
